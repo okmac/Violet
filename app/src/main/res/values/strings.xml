@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">SavingsTracker</string>
+    <string name="addSavings">Add To Savings</string>
+    <string name="clearSavings">Reset Savings</string>
+</resources>
