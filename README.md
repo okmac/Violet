@@ -1,2 +1,3 @@
 # Violet
-testing 123...
+
+Small app for keeping track of savings.
